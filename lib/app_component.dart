@@ -14,5 +14,8 @@ import 'src/mock_heroes.dart';
 )
 class AppComponent {
  final title = 'Tour of Heroes';
+ Hero selectedHero;
  List<Hero> heroes = mockHeroes;
+
+ void onSelect(Hero hero) => selectedHero = hero;
 }
