@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d658b12a-7d75-415c-b5ce-d4cce6214ddc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_component.dart" afterPath="$PROJECT_DIR$/lib/app_component.dart" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_component.html" afterPath="$PROJECT_DIR$/lib/app_component.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="app_component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/app_component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="68">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -151,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507404317360</updated>
-      <workItem from="1507404318483" duration="524000" />
+      <workItem from="1507404318483" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="524000" />
+    <option name="totallyTimeSpent" value="701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -211,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
